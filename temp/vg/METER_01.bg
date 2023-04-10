@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vg ver="1" name="METER_01.bg" type="bmp" width="100" height="100" discription="" color="0xffffff" transparent="no"><state id="0"><draw name="" type="image" pos_sx="0" pos_sy="0" pos_ex="99" pos_ey="99" penwidth="1" penstyle="6" pencolor="0xeeeeaf" fillcolor="0xfae6e6" fill="color" GradientFill="false" BackgroundColor="0xfae6e6" ForegroundColor="0x0" lock_status="0" isgroupmember="no" src="..\image\METER_1.png" UseExtImage="false" ExtImageFileName="" ExtImageMemType="0"/></state></vg>

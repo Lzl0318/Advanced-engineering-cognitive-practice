@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Logo><Window Size_cx="800" Size_cy="480" BKColor="0xffffff"><draw name="" type="image" pos_sx="0" pos_sy="0" pos_ex="800" pos_ey="480" penwidth="1" penstyle="6" pencolor="0xeeeeaf" fillcolor="0xfae6e6" fill="color" GradientFill="false" BackgroundColor="0xfae6e6" ForegroundColor="0x0" lock_status="0" isgroupmember="no" src="..\image\defaultlog.bmp" UseExtImage="false" ExtImageFileName="" ExtImageMemType="0"/></Window></Logo>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<vg width="100" height="100" type="vector" discription="DISP_BAR001.vg" transparent="no" name="DISP_BAR001.vg" color="0xffffff">
+	<state id="0">
+		<draw pos_sx="0" pos_sy="0" fill="color" penstyle="6" pencolor="0x0" type="rect" fillcolor="0xeeeeaf" penwidth="1" pos_ex="100" pos_ey="100"/>
+	</state>
+</vg>
